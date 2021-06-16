@@ -1,0 +1,10 @@
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe.config
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.exe
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\bin\Debug\Analizador_Sintactico.pdb
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csprojAssemblyReference.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Analizador.resources
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.Properties.Resources.resources
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.GenerateResource.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.csproj.CoreCompileInputs.cache
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.exe
+D:\UTESA 22021\Compiladores\Analizador_Sintactico\Analizador_Sintactico\Analizador_Sintactico\obj\Debug\Analizador_Sintactico.pdb

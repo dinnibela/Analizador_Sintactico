@@ -1,0 +1,14 @@
+inicio ;
+
+
+proceso ;
+si ( 23 == var5 )
+{
+ver "Tengo hambre" ;
+}
+
+si ( var1 == "hola" )
+{
+ver "Hola Mundo" ;
+}
+fin ;
